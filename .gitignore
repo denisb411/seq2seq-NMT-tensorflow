@@ -1,4 +1,4 @@
 params.p
 preprocess.p
-checkpoints
-.ipynb_checkpoints
+checkpoints/
+.ipynb_checkpoints/
